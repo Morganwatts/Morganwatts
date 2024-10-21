@@ -1,4 +1,3 @@
-- Here’s a sample README file for a real estate and cryptocurrency GitHub project. You can adjust it to reflect your specific project details:
 
 Real Estate & Crypto Integration Platform
 
@@ -102,7 +101,6 @@ License
 
 This project is licensed under the MIT License – see the LICENSE file for details.
 
-This README is designed to give a comprehensive overview of your real estate and crypto project, highlighting the key features, technologies, and future roadmap. It can be customized to fit your specific project.
 <!---
 Morganwatts/Morganwatts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
